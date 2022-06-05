@@ -1,0 +1,63 @@
+.about{
+    background: #efefef;
+    text-align: center;
+    padding: 50px;
+}
+
+.about h3{
+    color: grey;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.about h2{
+    color: blue;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.about-text{
+    display: flex;
+    margin-bottom: 30px;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.first-text{
+    width: 30%;
+    margin: auto;
+}
+
+.photo-text{
+    display: flex;
+}
+
+.about-photo{
+    width: 30%;
+    margin: auto;
+}
+
+.about-text-photo{
+    width: 30%;
+    margin: auto;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.service{
+    display: flex;
+    margin: 40px auto;
+    width: 66%;
+}
+
+.service h2{
+    color: blue;
+    font-size: 50px;
+    margin-bottom: 26px;
+}
+
+.service ul li{
+    list-style: none;
+    margin-bottom: 15px;
+    font-size: 19px;
+}
